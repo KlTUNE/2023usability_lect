@@ -1,0 +1,39 @@
+MainWindow {
+    background-color: rgb(239, 239, 239);
+}
+
+Title {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+Label1 {
+    color: black;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+InputTime {
+    color: black;
+    background-color: rgb(210, 210, 210);
+    font-size: 160px;
+    border-radius: 10px;
+}
+
+SetAlarm {
+    color: black;
+    font-size: 30px;
+    background-color: rgb(210, 210, 210);
+    border-radius: 5px;
+    font-size: 30px;
+}
+
+CanselAlarm {
+    color: black;
+    font-size: 30px;
+    background-color: rgb(210, 210, 210);
+    border-radius: 5px;
+    font-size: 30px;
+}
